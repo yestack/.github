@@ -1,53 +1,54 @@
-# 🌍 YE Stack – Global Venture Studio
+# YE Stack
 
-**Empowering Founders, Accelerating Startups** 🚀
+**Same people. More thinking. A higher-performing organization.**
 
----
+YE Stack is building **Cognition Infrastructure**: an engineered layer for how an organization thinks. It covers reasoning, decision-making and institutional judgment. It sits on top of a company's existing data and software, the way plumbing and electrical sit inside a building.
 
-### 🌐 About Us
+## Why we exist
 
-Welcome to **YE Stack**, where we bring the power of a **Global Venture Studio** to founders worldwide! 🌎 Acting as an **Institutional Co-Founder**, we're here to collaborate with visionary founders to build startups that scale, succeed, and inspire.
+We spent about nine years bootstrapping and running companies ourselves, with no outside funding. We wanted to learn firsthand what makes companies succeed or fail. The answer was almost never money, technology or market. It was how clearly people reason, and how well judgment scales from the founder to the team.
 
-We're more than just a Venture Studio – **we’re a partner** in crafting your journey with our uniquely designed **Capability Stacks** that accelerate growth and maximize impact. 
+AI models are commoditizing fast, like electricity. Once everyone has similar model access, the differentiator is no longer having a smart AI. It is **cognition**: an organization's accumulated judgment, decision history and institutional learning. We believe a company should own that "institutional brain" the way it owns its bank account, independent of whichever AI vendor is popular. We call this **cognition sovereignty**.
 
----
+## The framework
 
-### 📖 Our Story
+We build in five layers, like a house:
 
-YE Stack's story began as a "Leadership Mentoring" initiative in 2017, championed by our Founder to help young entrepreneurs unlock their potential. What started as a small mentoring program soon blossomed into a **thriving community** – a network where founders and dreamers shared experiences, supported one another, and celebrated every win. 🎉
+| Layer | What it is |
+|---|---|
+| **Scaffolds** | The blueprints and mental models a team's thinking runs on |
+| **Engines** | Machinery that detects, diagnoses and reasons through problems |
+| **Harnesses** | The wiring that assembles the above into one governed system for a job |
+| **Agents** | Workers that use the system continuously to monitor, coach, advise and act |
+| **Products** | The finished rooms: the tools people use every day |
 
-By **2023**, YE Stack transformed from a dedicated community into a full-fledged **Venture Studio** 🌱, collaborating with founders on a global scale. Now, we provide the structure, mentorship, and resources needed to enable every founder's journey and fuel scalable, sustainable startups.
+## Architectures
 
----
+Reusable cognitive blueprints that apply the framework to specific jobs. The list will keep growing.
 
-### 💡 What We Do
+- **CogSi**: reads how a team actually behaves day to day
+- **Predint**: diagnoses how a specific person thinks and decides
+- **Docent**: teaching and onboarding adapted to how someone learns
+- **Recon**: packages a whole methodology into a sealed, reusable tool
+- **CanonStack**: the connective thread through all our products
 
-YE Stack is committed to building **better, faster** with our specialized **Capability Stacks**:
+## Products
 
-- 💼 **Startup Strategy** – defining and refining your vision, market approach, and business model.
-- 🔍 **Product Development** – from MVP to full-scale products, we bring ideas to life.
-- 💸 **Fundraising & Growth** – strategic guidance to secure capital and scale.
-- 📈 **Operations & Scaling** – optimized processes for sustainable growth.
+- **Cogsi**: plan-vs-actual gap visibility for founder-led teams
+- **Kompaz**: evaluates how a candidate thinks and reasons, not just their résumé
+- **Bleno**: visibility and control over how employees use AI tools
+- **Praxos**: voice-based practice that sharpens a founder's product judgment through guided conversation
 
-**We're here for founders, every step of the way.** Whether you’re just getting started or ready to scale, YE Stack is your co-founding partner on the path to success. 
+## Research
 
----
+Alongside the products, a slower academic effort is trying to represent individual human cognition: perception, world-modeling, reflection and action. We think language is the clearest window into reasoning. It is a long-horizon bet, possibly toward a portable, ownable "cognitive profile" for every person. It is not a dependency of any product.
 
-### 🌟 Join Us on the Journey
+## How we think about it
 
-YE Stack is looking for exceptional founders, dreamers, and innovators to build something incredible together. Let’s make your startup journey **faster, smarter, and more collaborative**. 🌐
+YE Stack is not a SaaS company or an AI consultancy. We are building an institution meant to last decades, for any organization of people, teams and decisions. The goal is to augment people's thinking, not replace them with AI.
 
-**Connect with us and let’s change the world, one startup at a time.** 💪✨
+## Get in touch
 
----
-
-### 📫 Get in Touch
-
-- **Website**: [yestack.io](https://yestack.io) <img src="https://yestack.io/favicon.ico" width="17" height="17" />
-- **LinkedIn**: [YE Stack on LinkedIn](https://in.linkedin.com/company/ye-stack) <img src="https://in.linkedin.com/favicon.ico" width="17" height="17" />
-- **Instagram**: [@yestack](https://www.instagram.com/ye_stack/) <img src="https://www.instagram.com/favicon.ico" width="17" height="17" />
-- **Twitter**: [@yestack](https://twitter.com/ye_stack) <img src="https://x.com/favicon.ico" width="17" height="17" />
-- **Email**: hello@yestack.io <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="17" height="17" />
----
-
-> “Together, we build the startups of tomorrow.” 🛠️
+Website: [yestack.io](https://yestack.io)
+Email: hello@yestack.io
+LinkedIn · Instagram · X: @yestack
